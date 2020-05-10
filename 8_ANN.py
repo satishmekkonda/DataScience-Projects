@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  6 18:54:21 2020
 
-@author: narsingrao
-"""
 
 
 import os
