@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  6 17:49:07 2020
-
-@author: narsingrao
-"""
-
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  3 21:08:37 2020
-
-@author: narsingrao
-"""
 
 
 
