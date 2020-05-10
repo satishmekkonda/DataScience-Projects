@@ -1,19 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 18:31:12 2020
 
-@author: narsingrao
-"""
-
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 18:04:02 2020
-
-@author: narsingrao
-"""
 
 
 import os
